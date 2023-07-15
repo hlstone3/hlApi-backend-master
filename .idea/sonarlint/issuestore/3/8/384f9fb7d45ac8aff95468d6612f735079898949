@@ -1,0 +1,20 @@
+
+g	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·½‚—”1
+g	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·½‚—”1
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ûåçy8·½‚—”1
+d
+java:S11926"GDefine a constant instead of duplicating this literal "method" 3 times.(½œİƒ8·½‚—”1
+d
+java:S1192,"GDefine a constant instead of duplicating this literal "format" 4 times.(™Öº·8¸½‚—”1
+~
+java:S1488Z"\Immediately return this expression instead of assigning it to the temporary variable "json".(Ä­Ê¸ÿÿÿÿÿ8¸½‚—”1
+z
+java:S1488x"^Immediately return this expression instead of assigning it to the temporary variable "result".(ó­.8¸½‚—”1
+{
+java:S1488ƒ"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÁªŒv8¸½‚—”1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğ‘Éıÿÿÿÿ8²¾‚—”1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ôò£ÿşÿÿÿÿ8²¾‚—”1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®Æàøÿÿÿÿ8²¾‚—”1
+o	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÉ—±ûÿÿÿÿ8»¾‚—”1
+j	java:S100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›­«8¾¾‚—”1
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(§…—”8Á¾‚—”1

@@ -1,0 +1,7 @@
+
+g	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8——Ú©”1
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ûåçy8——Ú©”1
+ƒ
+java:S1488•"`Immediately return this expression instead of assigning it to the temporary variable "location".(²ğ“Àûÿÿÿÿ8˜—Ú©”1
+C
+java:S1860N"&Synchronize on a new "Object" instead.(³»˜»8±—Ú©”1

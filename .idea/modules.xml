@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hlApi-backend/hlApi-backend.iml" filepath="$PROJECT_DIR$/hlApi-backend/hlApi-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hlApi-backend-master.iml" filepath="$PROJECT_DIR$/hlApi-backend-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hlApi-common/hlApi-common.iml" filepath="$PROJECT_DIR$/hlApi-common/hlApi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hlApi-gateway/hlApi-gateway.iml" filepath="$PROJECT_DIR$/hlApi-gateway/hlApi-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hlApi-interface/hlApi-interface.iml" filepath="$PROJECT_DIR$/hlApi-interface/hlApi-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hlstone-client-sdk/hlstone-client-sdk.iml" filepath="$PROJECT_DIR$/hlstone-client-sdk/hlstone-client-sdk.iml" />
+    </modules>
+  </component>
+</project>

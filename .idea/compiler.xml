@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hlstone-client-sdk" />
+        <module name="hlApi-gateway" />
+        <module name="hlApi-common" />
+        <module name="hlApi-interface" />
+        <module name="hlApi-backend" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hlApi-backend" target="1.8" />
+      <module name="hlApi-common" target="1.8" />
+      <module name="hlApi-gateway" target="1.8" />
+      <module name="hlApi-interface" target="1.8" />
+      <module name="hlstone-client-sdk" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hlApi-backend" options="-parameters" />
+      <module name="hlApi-common" options="-parameters" />
+      <module name="hlApi-gateway" options="-parameters" />
+      <module name="hlApi-interface" options="-parameters" />
+      <module name="hlstone-client-sdk" options="-parameters" />
+    </option>
+  </component>
+</project>
