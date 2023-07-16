@@ -1,10 +1,0 @@
-
-g	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8œ­“¢”1
-e
-java:S22598"HA "NullPointerException" could be thrown; "getMethod()" can return null.(±Šé€8ë©’¢”1
-p
-java:S22599"NA "NullPointerException" could be thrown; "getLocalAddress()" can return null.(ÞºÑÇþÿÿÿÿ8ë©’¢”1
-9
-java:S2386+"Make this member "protected".(»Ï˜<8ì©’¢”1
-j	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Æ˜Ò8ó©’¢”1
-^	java:S125“"<This block of commented-out lines of code should be removed.(€žòÁúÿÿÿÿ8ö©’¢”1
