@@ -39,7 +39,7 @@
 
 ### 业务流程
 
-![image-20230715220707774](F:\StartProject\API\hlApi-backend-master\README.assets\image-20230715220707774.png)
+![image-20230715220707774](https://github.com/hlstone3/imgs/blob/master/hlApi/image-20230715220707774.png)
 
 ### 业务功能
 
@@ -52,9 +52,9 @@
 
 ##### API签名认证
 
-![image-20230716092048800](F:\StartProject\API\hlApi-backend-master\README.assets\image-20230716092048800.png)
+![image-20230716092048800](https://github.com/hlstone3/imgs/blob/master/hlApi/image-20230716092048800.png)
 
 #### RPC调用模型
 
-![image-20230716092217472](F:\StartProject\API\hlApi-backend-master\README.assets\image-20230716092217472.png)
+![image-20230716092217472](https://github.com/hlstone3/imgs/blob/master/hlApi/image-20230716092217472.png)
 
